@@ -37,5 +37,8 @@ class Solution {
             result[i - k + 1] = deque.peekFirst();
         }
         return result;
+
+
+
     }
 }
