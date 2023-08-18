@@ -8,6 +8,8 @@ public class A {
 
         System.out.println(solution.maxSlidingWindow(ars, 3));
         System.out.println(solution.maxSlidingWindow(ars, 3));
+        System.out.println(solution.maxSlidingWindow(ars, 3));
+        System.out.println(solution.maxSlidingWindow(ars, 3));
 
     }
 }
