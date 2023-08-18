@@ -7,6 +7,7 @@ public class A {
         int[] ars = {1,3,-1,-3,5,3,6,7};
 
         System.out.println(solution.maxSlidingWindow(ars, 3));
+        System.out.println(solution.maxSlidingWindow(ars, 3));
 
     }
 }
